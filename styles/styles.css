@@ -1,0 +1,63 @@
+p {
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: black;
+
+}
+
+h2 {
+
+    font-family: "acumin-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #24418f;
+}
+
+div.column {
+    float: left;
+    width: 40%;
+}
+
+div.row {
+    float: right;
+    width: 40%;
+}
+
+div {
+    text-align: left;
+
+}
+
+body {
+    font-size: 25px;
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: ;
+}
+
+body.succes {
+    background-repeat: ;
+    background-size: cover;
+    background-image: url("");
+}
+
+.submit {
+    text-align: center;
+
+}
+
+div.succes {
+
+    text-align: center;
+}
+
+div.rectangle1 {
+    width: 1820px;
+    height: 50px;
+    border-bottom-color: #3763AE;
+    background-color: #3763AE;
+}
